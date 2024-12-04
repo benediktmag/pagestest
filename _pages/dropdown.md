@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: previous
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: 2024
+    permalink: /2024/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: 2023
+    permalink: /2023/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: 2022
+    permalink: /2022/
 ---
